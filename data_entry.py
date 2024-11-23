@@ -6,7 +6,7 @@ CATEGORIES = {"I": "Income", "E": "Expense"}
 def get_date(prompt, allow_default=False):
     date_str = input(prompt)
     if allow_default and not date_str:
-        return datetime.today().strptime(date_format)
+        return datetime.today().strftime(date_format)
 
     try:
         valid_date = datetime.strptime(date_str, date_format)
