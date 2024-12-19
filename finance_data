@@ -1,4 +1,15 @@
 date,amount,category,description
+10-02-2024,15.0,Expense,movie ticket
+18-02-2024,120.0,Income,bonus
+25-02-2024,40.0,Expense,subscription renewal
+01-03-2024,300.0,Income,salary payment
+08-03-2024,22.5,Expense,coffee and snacks
+15-03-2024,50.0,Expense,gas refill
+22-03-2024,180.0,Income,freelance gig
+30-03-2024,60.0,Expense,gifts for family
+01-04-2024,200.0,Income,salary payment
+10-04-2024,35.0,Expense,car maintenance
+20-04-2024,15.0,Expense,transportation
 21-11-2024,150,income,minimum wage
 22-11-2024,150.0,Income,
 15-12-2024,110.0,Expense,dinner with fam
